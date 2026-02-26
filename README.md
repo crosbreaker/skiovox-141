@@ -1,7 +1,7 @@
 # Skiovox on 141
 ## The skiovox exploit for ChromeOS version 141
 
-if you know what you're doing then you can [Open a skiovox window](https://skiovox141.crosbreaker.dev/open) here.
+if you know what you're doing then you can [Open a skiovox window](https://skiovox-141.pages.dev/open) here.
 
 # steps
 1. Find a **website kiosk** (one that *shows the url* while its loading.)
