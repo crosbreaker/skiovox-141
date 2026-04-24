@@ -23,7 +23,7 @@ if you know what you're doing then you can [Open a skiovox window](https://skiov
 more will be added eventually.
 
 ## Join the [discord server](https://discord.gg/nrMVY29MUb) if you need any help or have questions.
-## also check out [crosbreaker.dev](https://crosbreaker.dev)
+## also check out [crosbreaker.com](https://crosbreaker.com)
 
 :3
 
